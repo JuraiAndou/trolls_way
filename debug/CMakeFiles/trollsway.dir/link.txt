@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/trollsway.dir/src/main.cpp.o  -o trollsway 

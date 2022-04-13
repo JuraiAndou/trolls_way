@@ -1,0 +1,3 @@
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles/rebuild_cache.dir
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles/edit_cache.dir
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles/trollsway.dir
