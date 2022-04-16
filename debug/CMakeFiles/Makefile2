@@ -74,12 +74,12 @@ clean: CMakeFiles/trollsway.dir/clean
 CMakeFiles/trollsway.dir/all:
 	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/depend
 	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles --progress-num=1,2 "Built target trollsway"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target trollsway"
 .PHONY : CMakeFiles/trollsway.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/trollsway.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/trollsway.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles 0
 .PHONY : CMakeFiles/trollsway.dir/rule

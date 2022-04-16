@@ -123,6 +123,87 @@ trollsway/fast:
 	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/build
 .PHONY : trollsway/fast
 
+src/StateBattle.o: src/StateBattle.cpp.o
+
+.PHONY : src/StateBattle.o
+
+# target to build an object file
+src/StateBattle.cpp.o:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/StateBattle.cpp.o
+.PHONY : src/StateBattle.cpp.o
+
+src/StateBattle.i: src/StateBattle.cpp.i
+
+.PHONY : src/StateBattle.i
+
+# target to preprocess a source file
+src/StateBattle.cpp.i:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/StateBattle.cpp.i
+.PHONY : src/StateBattle.cpp.i
+
+src/StateBattle.s: src/StateBattle.cpp.s
+
+.PHONY : src/StateBattle.s
+
+# target to generate assembly for a file
+src/StateBattle.cpp.s:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/StateBattle.cpp.s
+.PHONY : src/StateBattle.cpp.s
+
+src/StateSleep.o: src/StateSleep.cpp.o
+
+.PHONY : src/StateSleep.o
+
+# target to build an object file
+src/StateSleep.cpp.o:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/StateSleep.cpp.o
+.PHONY : src/StateSleep.cpp.o
+
+src/StateSleep.i: src/StateSleep.cpp.i
+
+.PHONY : src/StateSleep.i
+
+# target to preprocess a source file
+src/StateSleep.cpp.i:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/StateSleep.cpp.i
+.PHONY : src/StateSleep.cpp.i
+
+src/StateSleep.s: src/StateSleep.cpp.s
+
+.PHONY : src/StateSleep.s
+
+# target to generate assembly for a file
+src/StateSleep.cpp.s:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/StateSleep.cpp.s
+.PHONY : src/StateSleep.cpp.s
+
+src/Troll.o: src/Troll.cpp.o
+
+.PHONY : src/Troll.o
+
+# target to build an object file
+src/Troll.cpp.o:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/Troll.cpp.o
+.PHONY : src/Troll.cpp.o
+
+src/Troll.i: src/Troll.cpp.i
+
+.PHONY : src/Troll.i
+
+# target to preprocess a source file
+src/Troll.cpp.i:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/Troll.cpp.i
+.PHONY : src/Troll.cpp.i
+
+src/Troll.s: src/Troll.cpp.s
+
+.PHONY : src/Troll.s
+
+# target to generate assembly for a file
+src/Troll.cpp.s:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/Troll.cpp.s
+.PHONY : src/Troll.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -159,6 +240,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... trollsway"
+	@echo "... src/StateBattle.o"
+	@echo "... src/StateBattle.i"
+	@echo "... src/StateBattle.s"
+	@echo "... src/StateSleep.o"
+	@echo "... src/StateSleep.i"
+	@echo "... src/StateSleep.s"
+	@echo "... src/Troll.o"
+	@echo "... src/Troll.i"
+	@echo "... src/Troll.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

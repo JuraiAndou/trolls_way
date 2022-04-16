@@ -6,7 +6,29 @@
 
 #IncludeRegexTransform: 
 
+../include/State.h
+iostream
+-
+
+../include/StateBattle.h
+State.h
+../include/State.h
+
+../include/StateSleep.h
+State.h
+../include/State.h
+
+../include/Troll.h
+State.h
+../include/State.h
+
 /home/samucca/Dev/cpp/ai_for_games/trolls_way/src/main.cpp
 iostream
 -
+Troll.h
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/Troll.h
+StateSleep.h
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateSleep.h
+StateBattle.h
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateBattle.h
 
