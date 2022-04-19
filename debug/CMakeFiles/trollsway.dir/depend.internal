@@ -5,6 +5,10 @@ CMakeFiles/trollsway.dir/src/StateBattle.cpp.o
  ../include/State.h
  ../include/StateBattle.h
  /home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateBattle.cpp
+CMakeFiles/trollsway.dir/src/StateDead.cpp.o
+ ../include/State.h
+ ../include/StateDead.h
+ /home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateDead.cpp
 CMakeFiles/trollsway.dir/src/StateSleep.cpp.o
  ../include/State.h
  ../include/StateSleep.h
@@ -16,6 +20,7 @@ CMakeFiles/trollsway.dir/src/Troll.cpp.o
 CMakeFiles/trollsway.dir/src/main.cpp.o
  ../include/State.h
  ../include/StateBattle.h
+ ../include/StateDead.h
  ../include/StateSleep.h
  ../include/Troll.h
  /home/samucca/Dev/cpp/ai_for_games/trolls_way/src/main.cpp

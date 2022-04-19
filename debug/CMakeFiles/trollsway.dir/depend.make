@@ -5,6 +5,10 @@ CMakeFiles/trollsway.dir/src/StateBattle.cpp.o: ../include/State.h
 CMakeFiles/trollsway.dir/src/StateBattle.cpp.o: ../include/StateBattle.h
 CMakeFiles/trollsway.dir/src/StateBattle.cpp.o: ../src/StateBattle.cpp
 
+CMakeFiles/trollsway.dir/src/StateDead.cpp.o: ../include/State.h
+CMakeFiles/trollsway.dir/src/StateDead.cpp.o: ../include/StateDead.h
+CMakeFiles/trollsway.dir/src/StateDead.cpp.o: ../src/StateDead.cpp
+
 CMakeFiles/trollsway.dir/src/StateSleep.cpp.o: ../include/State.h
 CMakeFiles/trollsway.dir/src/StateSleep.cpp.o: ../include/StateSleep.h
 CMakeFiles/trollsway.dir/src/StateSleep.cpp.o: ../src/StateSleep.cpp
@@ -15,6 +19,7 @@ CMakeFiles/trollsway.dir/src/Troll.cpp.o: ../src/Troll.cpp
 
 CMakeFiles/trollsway.dir/src/main.cpp.o: ../include/State.h
 CMakeFiles/trollsway.dir/src/main.cpp.o: ../include/StateBattle.h
+CMakeFiles/trollsway.dir/src/main.cpp.o: ../include/StateDead.h
 CMakeFiles/trollsway.dir/src/main.cpp.o: ../include/StateSleep.h
 CMakeFiles/trollsway.dir/src/main.cpp.o: ../include/Troll.h
 CMakeFiles/trollsway.dir/src/main.cpp.o: ../src/main.cpp

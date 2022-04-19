@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateBattle.cpp" "/home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles/trollsway.dir/src/StateBattle.cpp.o"
+  "/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateDead.cpp" "/home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles/trollsway.dir/src/StateDead.cpp.o"
   "/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateSleep.cpp" "/home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles/trollsway.dir/src/StateSleep.cpp.o"
   "/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/Troll.cpp" "/home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles/trollsway.dir/src/Troll.cpp.o"
   "/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/main.cpp" "/home/samucca/Dev/cpp/ai_for_games/trolls_way/debug/CMakeFiles/trollsway.dir/src/main.cpp.o"

@@ -14,6 +14,10 @@ iostream
 State.h
 ../include/State.h
 
+../include/StateDead.h
+State.h
+../include/State.h
+
 ../include/StateSleep.h
 State.h
 ../include/State.h
@@ -22,6 +26,24 @@ State.h
 State.h
 ../include/State.h
 
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateBattle.cpp
+StateBattle.h
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateBattle.h
+
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateDead.cpp
+StateDead.h
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateDead.h
+
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateSleep.cpp
+StateSleep.h
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateSleep.h
+
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/Troll.cpp
+Troll.h
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/Troll.h
+iostream
+-
+
 /home/samucca/Dev/cpp/ai_for_games/trolls_way/src/main.cpp
 iostream
 -
@@ -29,6 +51,8 @@ Troll.h
 /home/samucca/Dev/cpp/ai_for_games/trolls_way/src/Troll.h
 StateSleep.h
 /home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateSleep.h
+StateDead.h
+/home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateDead.h
 StateBattle.h
 /home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateBattle.h
 

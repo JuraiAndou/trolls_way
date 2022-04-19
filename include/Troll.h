@@ -5,9 +5,9 @@
 class Troll
 {
     public:
-        int life;
-        int hunger;
-        int atk_p;
+        int life;//starts on 10
+        int hunger;//starts on 0
+        int atk_p;//random value when in battle (1-3)
 
         Troll(State* initialState);
         virtual ~Troll();

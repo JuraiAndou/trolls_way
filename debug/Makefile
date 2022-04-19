@@ -150,6 +150,33 @@ src/StateBattle.cpp.s:
 	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/StateBattle.cpp.s
 .PHONY : src/StateBattle.cpp.s
 
+src/StateDead.o: src/StateDead.cpp.o
+
+.PHONY : src/StateDead.o
+
+# target to build an object file
+src/StateDead.cpp.o:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/StateDead.cpp.o
+.PHONY : src/StateDead.cpp.o
+
+src/StateDead.i: src/StateDead.cpp.i
+
+.PHONY : src/StateDead.i
+
+# target to preprocess a source file
+src/StateDead.cpp.i:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/StateDead.cpp.i
+.PHONY : src/StateDead.cpp.i
+
+src/StateDead.s: src/StateDead.cpp.s
+
+.PHONY : src/StateDead.s
+
+# target to generate assembly for a file
+src/StateDead.cpp.s:
+	$(MAKE) -f CMakeFiles/trollsway.dir/build.make CMakeFiles/trollsway.dir/src/StateDead.cpp.s
+.PHONY : src/StateDead.cpp.s
+
 src/StateSleep.o: src/StateSleep.cpp.o
 
 .PHONY : src/StateSleep.o
@@ -243,6 +270,9 @@ help:
 	@echo "... src/StateBattle.o"
 	@echo "... src/StateBattle.i"
 	@echo "... src/StateBattle.s"
+	@echo "... src/StateDead.o"
+	@echo "... src/StateDead.i"
+	@echo "... src/StateDead.s"
 	@echo "... src/StateSleep.o"
 	@echo "... src/StateSleep.i"
 	@echo "... src/StateSleep.s"

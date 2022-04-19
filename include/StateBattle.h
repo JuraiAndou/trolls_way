@@ -2,7 +2,7 @@
 #define STATEBATTLE_H
 #include "State.h"
 
-class StateBattle{
+class StateBattle : public State{
     private: 
 
     public:

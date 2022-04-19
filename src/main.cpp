@@ -1,15 +1,14 @@
 #include <iostream>
 #include "Troll.h"
 #include "StateSleep.h"
+#include "StateDead.h"
 #include "StateBattle.h"
 
 int main()
 {
     std::cout << "\t ---|Troll\'s Way|---\t" << std::endl;
 
-    StateSleep sleep;
-    StateBattle battle;
-    Troll troll(&sleep);
+    Troll troll(new StateSleep());
 
     bool running = true;
     int input;
