@@ -11,7 +11,7 @@ Troll::Troll(State* initialState)
 }
 Troll::~Troll()
 {
-
+    delete currentState;
 }
 void Troll::update()
 {

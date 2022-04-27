@@ -11,7 +11,9 @@ CMakeFiles/trollsway.dir/src/StateDead.cpp.o
  /home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateDead.cpp
 CMakeFiles/trollsway.dir/src/StateSleep.cpp.o
  ../include/State.h
+ ../include/StateDead.h
  ../include/StateSleep.h
+ ../include/Troll.h
  /home/samucca/Dev/cpp/ai_for_games/trolls_way/src/StateSleep.cpp
 CMakeFiles/trollsway.dir/src/Troll.cpp.o
  ../include/State.h
